@@ -193,6 +193,9 @@ button {
   width: 200px;
   height: 60px;
   flex-shrink: 0;
+  position: absolute;
+  margin-top: 577px;
+  margin-left: 135px;
 }
 
 h1 {
@@ -203,6 +206,10 @@ h1 {
   font-weight: 700;
   line-height: 112px;
   width: 804px;
+  margin-left: 135px;
+  margin-top: 285px;
+  position: absolute;
+
 }
 
 .hero {
@@ -211,4 +218,6 @@ h1 {
   width: 1680px;
   height: 1000px;
   flex-shrink: 0;
+  position: relative;
+  margin-top: -50px;
 }
