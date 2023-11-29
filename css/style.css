@@ -193,9 +193,7 @@ button {
   width: 200px;
   height: 60px;
   flex-shrink: 0;
-  position: absolute;
-  margin-top: 577px;
-  margin-left: 135px;
+ 
 }
 
 h1 {
@@ -209,7 +207,6 @@ h1 {
   margin-left: 135px;
   margin-top: 285px;
   position: absolute;
-
 }
 
 .hero {
@@ -221,3 +218,81 @@ h1 {
   position: relative;
   margin-top: -50px;
 }
+
+.hero_btn{
+	position: absolute;
+	margin-top: 577px;
+	margin-left: 135px;
+}
+
+
+.discover_line {
+  width: 234px;
+  height: 2px;
+  flex-shrink: 0;
+  background: #f5ebe9;
+  margin-top: 21px;
+}
+
+.discover_txt {
+  color: #ff715b;
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 5px;
+}
+.discover_now {
+  width: 435px;
+  height: 47px;
+  flex-shrink: 0;
+  margin-top: 30px;
+}
+
+
+.arab_egypt p {
+  color: #a79997;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.arab_egypt h6 {
+  color: #ff715b;
+  font-family: Noto Serif;
+  font-size: 18px;
+  font-weight: 600;
+margin-top: 10px;
+}
+
+.des_svg{
+ margin-top: -13px;
+}
+.dess_svg{
+	margin-top: -35px;
+	margin-left: 224px;
+}
+
+
+.destinations{
+display: flex;
+width: 1185px;
+height: 154px;
+flex-shrink: 0;
+background: #FFF;
+box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.20);
+position: relative;
+
+margin-left: 495px;
+margin-top: -159px;
+padding-top: 45px;
+padding-left: 45px;
+}
+.destinations_btn{
+margin-right: 45px;
+}
+
+
+
