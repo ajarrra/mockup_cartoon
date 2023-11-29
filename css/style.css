@@ -16,6 +16,11 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #a79997;
+}
 li {
   list-style: none;
 }
@@ -193,7 +198,11 @@ button {
   width: 200px;
   height: 60px;
   flex-shrink: 0;
- 
+  transition: 0.5s;
+}
+button:hover{
+	background: #fc5940;
+	box-shadow: 0px 10px 30px 5px rgba(132, 121, 119, 0.2);
 }
 
 h1 {
@@ -219,12 +228,11 @@ h1 {
   margin-top: -50px;
 }
 
-.hero_btn{
-	position: absolute;
-	margin-top: 577px;
-	margin-left: 135px;
+.hero_btn {
+  position: absolute;
+  margin-top: 577px;
+  margin-left: 135px;
 }
-
 
 .discover_line {
   width: 234px;
@@ -251,7 +259,6 @@ h1 {
   margin-top: 30px;
 }
 
-
 .arab_egypt p {
   color: #a79997;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -264,35 +271,102 @@ h1 {
   font-family: Noto Serif;
   font-size: 18px;
   font-weight: 600;
-margin-top: 10px;
+  margin-top: 10px;
 }
 
-.des_svg{
- margin-top: -13px;
+.des_svg {
+  margin-top: -13px;
 }
-.dess_svg{
-	margin-top: -35px;
-	margin-left: 224px;
-}
-
-
-.destinations{
-display: flex;
-width: 1185px;
-height: 154px;
-flex-shrink: 0;
-background: #FFF;
-box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.20);
-position: relative;
-
-margin-left: 495px;
-margin-top: -159px;
-padding-top: 45px;
-padding-left: 45px;
-}
-.destinations_btn{
-margin-right: 45px;
+.dess_svg {
+  margin-top: -35px;
+  margin-left: 224px;
 }
 
+.destinations {
+  display: flex;
+  width: 1185px;
+  height: 154px;
+  flex-shrink: 0;
+  background: #fff;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+  position: relative;
+
+  margin-left: 495px;
+  margin-top: -159px;
+  padding-top: 45px;
+  padding-left: 45px;
+}
+.destinations_btn {
+  margin-right: 45px;
+}
+.choose_des_card {
+  width: 326px;
+  height: 326px;
+  flex-shrink: 0;
+  cursor: pointer;
+  background: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transform: inherit;
+  transition: 0.5s;
+}
+
+.choose_des_card:hover{
+	background: #FFF;
+	box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+	
+}
+
+.choose_des_card:focus{
+	background: #FFF;
+	box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+	
+}
 
 
+
+
+.choose_des_card img {
+  width: 128px;
+  height: 128px;
+  flex-shrink: 0;
+  margin-top: -50px;
+}
+
+.choose_des_card_img img {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  margin-top: -44px;
+}
+
+.choose_des_card h5 {
+  color: #2c2c2c;
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 24px;
+  margin-bottom: 20px;
+  
+}
+
+.choose_des_card p {
+  color: #a79997;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  width: 250px;
+  height: 45px;
+  flex-shrink: 0;
+
+}
+
+.choose_des_card_h{
+	margin-top: -16px;
+}
