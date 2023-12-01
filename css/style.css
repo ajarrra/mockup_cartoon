@@ -422,3 +422,143 @@ margin-top: -480px;
 
 .top_the_des {margin-right: 76px;}
 
+.lighthouse img{
+  width: 770px;
+height: 836px;
+flex-shrink: 0;
+margin-left: 100px;
+}
+
+.we_offering_txt h3{
+  color: #2C2C2C;
+  font-family: Noto Serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  width: 690px;
+height: 116px;
+flex-shrink: 0;
+margin-bottom: 83px;
+margin-top: 140px;
+}
+
+
+
+.best_travel{
+  width: 690px;
+height: 129px;
+flex-shrink: 0;
+margin-bottom: 50px;
+}
+
+.best_travel_flex img{
+  width: 180px;
+height: 50px;
+flex-shrink: 0;
+}
+
+.word_class{
+  width: 690px;
+height: 50px;
+flex-shrink: 0;
+}
+
+.word_class img{
+  width: 50px;
+height: 50px;
+flex-shrink: 0;
+}
+
+.strong_cus{
+  width: 690px;
+height: 50px;
+flex-shrink: 0;
+}
+
+.strong_cus img{
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+.line_offering{
+  width: 600px;
+height: 1px;
+flex-shrink: 0;
+background: #F1E0DD;
+
+}
+
+.best_travel_flex{
+  display: flex;
+  
+}
+
+.best_travel h6{
+  color: #000;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.best_travel p{
+  width: 600px;
+height: 71px;
+flex-shrink: 0;
+color: #A79997;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+margin-left: 50px;
+
+}
+
+
+
+
+.we_offering_txt img{
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+
+.word_class{
+  margin-top: 45px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.word_class h6{
+  color: #000;
+font-family: Noto Serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 40px;
+}
+
+.strong_cus{
+  display: flex;
+  align-items: center;
+  margin-top: 57px;
+}
+
+.strong_cus h6{
+  color: #000;
+font-family: Noto Serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 40px;
+}
+
+
+
