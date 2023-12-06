@@ -417,6 +417,7 @@ h1 {
 .top_in_the_word{
 	display: flex;
 	align-items: center;
+ 
 }
 
 .bg{
@@ -685,3 +686,18 @@ margin-left: 50px;
   height: 149px;
   margin-bottom: -407px;
 }
+
+.what_our_happy_cus h3{
+  
+  margin-top: -273px;
+  text-align: center;
+}
+
+.what_our_happy_cus{
+  margin-top: -200px;
+}
+
+.blue_svg{
+  margin-left: -90px;
+}
+
