@@ -701,3 +701,70 @@ margin-left: 50px;
   margin-left: -90px;
 }
 
+.card_shamin{
+  width: 690px;
+  height: 513px;
+  flex-shrink: 0;
+  background: #FFF;
+  box-shadow: 0px 20px 30px 0px rgba(227, 202, 202, 0.30);
+  border-top: 11px solid  #FF715B;;
+}
+
+.card_shamin img{
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+  margin-right: 20px;
+  
+}
+
+.card_shamin h5{
+  width: 261px;
+  height: 26px;
+  flex-shrink: 0;
+  color: #000;
+  font-size: 24px;
+  
+}
+
+.card_shamin h6{
+  color: #FF715B;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.card_shamin p{
+
+color: #A79997;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+line-height: 36px; /* 150% */
+width: 570px;
+height: 171px;
+flex-shrink: 0;
+margin-left: 73px;
+}
+
+.card_shamin_img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 58px;
+  margin-bottom: 50px;
+}
+
+.shamin_svg{
+ text-align: center;
+ margin-top: 50px;
+}
+
+
+
+.what_our_happy_cus_flex {
+  display: flex;
+  
+}
