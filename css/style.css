@@ -766,5 +766,7 @@ margin-left: 73px;
 
 .what_our_happy_cus_flex {
   display: flex;
+  justify-content: center;
+  margin-top: 100px;
   
 }
