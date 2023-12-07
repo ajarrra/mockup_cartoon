@@ -695,6 +695,7 @@ margin-left: 50px;
 
 .what_our_happy_cus{
   margin-top: -200px;
+  position: relative;
 }
 
 .blue_svg{
@@ -708,6 +709,8 @@ margin-left: 50px;
   background: #FFF;
   box-shadow: 0px 20px 30px 0px rgba(227, 202, 202, 0.30);
   border-top: 11px solid  #FF715B;;
+
+  margin-left: 166px;
 }
 
 .card_shamin img{
@@ -768,5 +771,82 @@ margin-left: 73px;
   display: flex;
   justify-content: center;
   margin-top: 100px;
-  
+
+}
+
+
+.img_1 img{ 
+  width: 104px;
+height: 105px;
+flex-shrink: 0;
+margin-top: 138px;
+margin-left: -302px;
+position: absolute;
+}
+
+
+.img_2 img{ 
+  width: 122px;
+height: 123px;
+flex-shrink: 0;
+margin-top: 339px;
+margin-left: -287px;
+position: absolute;
+}
+
+
+.img_3 img{ 
+  width: 110px;
+  height: 108px;
+  flex-shrink: 0;
+  margin-top: 11px;
+  margin-left: -148px;
+  position: absolute;
+}
+
+.img_4 img{
+  width: 140px;
+  height: 138px;
+  flex-shrink: 0;
+  margin-top: 194px;
+  margin-left: -80px;
+  position: absolute;
+ 
+}
+
+
+.img_5 img{
+  width: 114px;
+  height: 114px;
+  flex-shrink: 0;
+  margin-top: 189px;
+  margin-left: 90px;
+  position: absolute;
+ 
+}
+
+.img_6 img{
+  width: 167px;
+  height: 155px;
+  flex-shrink: 0;
+  margin-top: 382px;
+  margin-left: 217px;
+  position: absolute;
+ 
+}
+
+
+.img_7 img{
+  width: 183px;
+  height: 177px;
+  flex-shrink: 0;
+  margin-top: 32px;
+  margin-left: 280px;
+  position: absolute;
+ 
+}
+
+.shamin_people{
+  margin-left: -161px;
+
 }
