@@ -709,8 +709,17 @@ margin-left: 50px;
   background: #FFF;
   box-shadow: 0px 20px 30px 0px rgba(227, 202, 202, 0.30);
   border-top: 11px solid  #FF715B;;
-
+  cursor: pointer;
   margin-left: 166px;
+  transition: 1s;
+
+}
+
+.card_shamin:hover{
+  box-shadow: 0px 20px 30px 0px rgba(162, 153, 153, 0.3);
+  transform: scale(1.1);
+  background: #f3f1f1;
+  cursor: pointer;
 }
 
 .card_shamin img{
@@ -848,5 +857,9 @@ position: absolute;
 
 .shamin_people{
   margin-left: -161px;
+  cursor: pointer;
+}
 
+.shamin_peoplee{
+cursor: pointer;
 }
