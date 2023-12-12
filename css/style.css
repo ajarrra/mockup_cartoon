@@ -425,7 +425,7 @@ h1 {
 	width: 789px;
   height: 580px;
   flex-shrink: 0;
-  margin-left: 1010px;
+  margin-left: 1128px;
   margin-top: -480px;
 }
 
@@ -861,5 +861,165 @@ position: absolute;
 }
 
 .shamin_peoplee{
-cursor: pointer;
+  cursor: pointer;
 }
+
+
+.download_now_travel_txt{
+  width: 1652px;
+height: 550px;
+flex-shrink: 0;
+background-image: url(../img/traveeel.png);
+position: relative;
+}
+
+.download_now_travel_txt h3{
+  width: 619px;
+height: 116px;
+flex-shrink: 0;
+margin-left: 134px;
+margin-top: 157px;
+position: absolute;
+}
+
+.download_svg{
+  margin-top: 333px;
+  position: absolute;
+  margin-left: 134px;
+  display: flex;
+
+}
+
+.download_svg_first{
+  margin-right: 25px;
+}
+
+
+.footer_txt{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer_logo img{
+  width: 231px;
+  height: 60.737px;
+  flex-shrink: 0;
+}
+
+.footer_logo_p {
+  width: 450px;
+height: 45px;
+flex-shrink: 0;
+margin-top: 26px;
+margin-bottom: 30px;
+font-size: 18px;
+}
+
+
+.footer_svg{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.footer_svg p{
+margin-left: 20px;
+}
+
+.quick_links h5{
+  color: #000;
+font-family: Noto Serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 92.857% */
+}
+
+.quick_links_txt li{
+  color: #A79997;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 42px; /* 233.333% */
+list-style-type:circle;
+margin-left: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.quick_links_txt{
+  margin-top: 30px;
+}
+
+a:hover{
+  color: #FF715B;
+}
+
+.support h5{
+  color: #000;
+font-family: Noto Serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 92.857% */
+}
+
+.support_txt li{
+  color: #A79997;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 42px; /* 233.333% */
+list-style-type:circle;
+margin-left: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.support_txt {
+  margin-top: 30px;
+}
+
+
+.newsletter h5{
+  color: #000;
+  font-family: Noto Serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 92.857% */
+}
+
+.newsletter input{
+  width: 400px;
+height: 60px;
+flex-shrink: 0;
+border: 1px solid #F5EBE9;
+background: #F8F8F8;
+margin-top: 44px;
+margin-bottom: 15px;
+}
+
+.foot_line{
+  width: 1680px;
+height: 1px;
+flex-shrink: 0;
+background: #F5EBE9;
+margin-top: 96px;
+}
+
+.copyright{
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+  cursor: pointer;
+}
+.by_md{
+  color: #FF715B;
+  margin-left: 5px;
+}
+
+
+
